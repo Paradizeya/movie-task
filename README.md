@@ -20,4 +20,3 @@ VITE_API_KEY=ВАШ_КЛЮЧ
 ```
 # Инфо
 Приложение на базе Vite + React + TypeScript с SCSS.
-Хостинг: paradizeya-movie-task.vercel.app
