@@ -19,4 +19,5 @@ npm install
 VITE_API_KEY=ВАШ_КЛЮЧ
 ```
 # Инфо
-Приложение на базе Vite + React + TypeScript с SCSS.
+- Приложение на базе Vite + React + TypeScript с SCSS.
+- Хостинг: [https://paradizeya-movie-task.vercel.app/](Vercel)
