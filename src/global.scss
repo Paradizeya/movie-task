@@ -1,0 +1,10 @@
+$text-color: #f0f0ff;
+$accent: #d95f55;
+
+@mixin btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: $text-color;
+  font-family: inherit;
+}
